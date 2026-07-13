@@ -1,0 +1,7 @@
+results/models/
+*.pth
+__pycache__/
+.env
+node_modules/
+.next/
+.venv/
