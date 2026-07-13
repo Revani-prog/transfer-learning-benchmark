@@ -1,0 +1,42 @@
+{
+  "ResNet50": {
+    "accuracy": 35.68,
+    "precision": 34.56,
+    "recall": 39.06,
+    "f1": 33.35,
+    "training_time_min": 2.8,
+    "model_size_mb": 90.8,
+    "parameters_M": 23.7,
+    "inference_ms": 5.633
+  },
+  "EfficientNet-B0": {
+    "accuracy": 88.76,
+    "precision": 87.08,
+    "recall": 91.12,
+    "f1": 88.52,
+    "training_time_min": 2.2,
+    "model_size_mb": 16.1,
+    "parameters_M": 4.1,
+    "inference_ms": 5.067
+  },
+  "MobileNetV2": {
+    "accuracy": 86.76,
+    "precision": 85.54,
+    "recall": 88.74,
+    "f1": 86.51,
+    "training_time_min": 2.1,
+    "model_size_mb": 9.2,
+    "parameters_M": 2.4,
+    "inference_ms": 5.02
+  },
+  "VGG16": {
+    "accuracy": 3.82,
+    "precision": 0.68,
+    "recall": 3.53,
+    "f1": 0.8,
+    "training_time_min": 3.7,
+    "model_size_mb": 513.8,
+    "parameters_M": 134.7,
+    "inference_ms": 6.135
+  }
+}
